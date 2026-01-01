@@ -73,3 +73,7 @@
 </div>
 
 ## My 2025
+
+<div align="left">
+  <img src="img.png" alt="2025 highlights" style="max-width: 400px; width: 100%; height: auto;" />
+</div>
