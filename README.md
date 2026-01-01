@@ -72,8 +72,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MichalKujawski/MichalKujawski/output/snake.svg" alt="Snake animation" />
-
-###
+## My 2025
